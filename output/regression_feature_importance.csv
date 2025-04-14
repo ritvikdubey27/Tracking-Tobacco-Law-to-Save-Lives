@@ -1,0 +1,23 @@
+Feature,Importance
+Year,0.24096465665121614
+Time_To_Implementation,0.19605466820768747
+Years_Since_First_Adoption,0.16801353211787315
+No_Neighbors_Already_Implemented,0.09120999007642018
+Total_Neighbors,0.07076305047435906
+Neighbor_Adoption_Rate,0.07047269666781193
+Region_Northeast,0.04286969233587279
+Region_West,0.03930391243459317
+Is_Restaurant_Policy,0.01784061495401088
+MeasureDesc_Government Worksites,0.012621214961223039
+Region_South,0.011764998369256683
+MeasureDesc_Smokefree Indoor Air – Other Sites,0.008750211841432988
+MeasureDesc_Home-based Day Care Centers,0.00863411250790451
+Is_Ban_Policy,0.00745297032295881
+MeasureDesc_Restaurants,0.007154032406437779
+Is_Worksite_Policy,0.0037856112111214245
+MeasureDesc_Commercial Day Care Centers,0.0010280837022912876
+MeasureDesc_Government Multi-Unit Housing,0.000569765544657274
+MeasureDesc_Hotels and Motels,0.0004968806711402008
+MeasureDesc_Private Worksites,0.00024930454173134213
+MeasureDesc_Personal Vehicles,0.0
+MeasureDesc_Private Multi-Unit Housing,0.0
